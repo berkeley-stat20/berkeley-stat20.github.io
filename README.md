@@ -31,8 +31,6 @@ For students with mathematical background who wish to acquire basic concepts. Re
 
 Three hours of Lecture and  Two hours of Laboratory per week for 15 weeks.  Six hours of Lecture and  Three hours of Laboratory per week for 8 weeks.
 
-Written final exam conducted during the scheduled final exam period.
-
 ## Prerequisites
 
 One semester of calculus. 
