@@ -1,11 +1,11 @@
 ---
 layout: home
-title: Stat 20: Introduction to Probability and Statistics
+title: "Stat 20: Introduction to Probability and Statistics"
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: Stat 20: Introduction to Probability and Statistics
+  name: "Stat 20: Introduction to Probability and Statistics"
 ---
 
 # Stat 20: Introduction to Probability and Statistics
