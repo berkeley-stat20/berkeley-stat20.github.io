@@ -14,14 +14,13 @@ UC Berkeley
 {: .mb-0 .fs-6 .text-grey-dk-000 }
 
 
-[//]: # ## Offerings
 
-[//]: # (Items below should be of the form [Semester YYYY](semester-year)
+## Offerings
 
-[//]: # (Notably the paths should not have leading slashes in real sites.)
+1. [Spring 2024](https://stat20.org)
 
-[//]: # 1. [Fall 2024](/fall-2024)
-[//]: # 1. [Spring 2023](/spring-2023)
+
+
 
 ## Overview
 
