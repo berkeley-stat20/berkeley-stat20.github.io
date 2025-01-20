@@ -22,7 +22,7 @@ url: 'https://stat20.berkeley.edu'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 logo: 'resources/logo.png'
 
-ga_tracking: "G-"
+ga_tracking: "G-WP7F4QKDC8"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0
