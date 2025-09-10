@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Fall 2025](fall-2025)
 1. [Summer 2025](summer-2025)
 1. [Spring 2025](spring-2025)
 1. [Fall 2024](fall-2024)
@@ -28,7 +29,7 @@ UC Berkeley
 
 ## Overview
 
-For students with mathematical background who wish to acquire basic concepts. Relative frequencies, discrete probability, random variables, expectation. Testing hypotheses. Estimation. Illustrations from various fields. 
+For students with mathematical background who wish to acquire basic concepts. Relative frequencies, discrete probability, random variables, expectation. Testing hypotheses. Estimation. Illustrations from various fields. This course uses R as its primary computing language; details are determined by the instructor.
 
 ## Logistics
 
@@ -36,4 +37,4 @@ Three hours of lecture and two hours of laboratory per week. Six hours of lectur
 
 ## Prerequisites
 
-Mathematics 1A, Mathematics 16A, Mathematics 10A/10B, or consent of instructor.
+MATH 1A, MATH 16A, MATH 10A/10B, MATH 51 or consent of instructor.

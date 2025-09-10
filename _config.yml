@@ -15,7 +15,7 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 20: Introduction to Probability and Statistics"
 tagline: Course Overview
-description: "For students with mathematical background who wish to acquire basic concepts. Relative frequencies, discrete probability, random variables, expectation. Testing hypotheses. Estimation. Illustrations from various fields. "
+description: "For students with mathematical background who wish to acquire basic concepts. Relative frequencies, discrete probability, random variables, expectation. Testing hypotheses. Estimation. Illustrations from various fields. This course uses R as its primary computing language; details are determined by the instructor."
 author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat20.berkeley.edu'
