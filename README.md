@@ -17,6 +17,7 @@ UC Berkeley
 
 ## Offerings
 
+1. [Spring 2026](spring-2026)
 1. [Fall 2025](fall-2025)
 1. [Summer 2025](summer-2025)
 1. [Spring 2025](spring-2025)
