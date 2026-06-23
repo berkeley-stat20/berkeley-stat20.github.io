@@ -1,3 +1,4 @@
+1. [Summer 2026](summer-2026)
 1. [Spring 2026](spring-2026)
 1. [Fall 2025](fall-2025)
 1. [Summer 2025](summer-2025)
